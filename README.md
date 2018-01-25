@@ -27,6 +27,8 @@
   </tbody>
 </table>
 
+---
+
 <span style="display:none">hello world</span>
 ### Lesson 1. Image processing basics using python with OpenCV
 **Date:** 05.02.2018 - 9:00<br>
