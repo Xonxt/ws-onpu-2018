@@ -1,9 +1,4 @@
-## Winter School on Neurobotics in ONPU (2018) | Computer Visio subsection
-
-| Description | Lecturer |
-|-------------|----------|
-|The materials and lectures for the computer vision subsection of the joint ONPU/HA Winter School will be posted here.This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.|**Name:** Nikita Kovalenko<br>**e-mail:** kovalenkonv@opu.ua|
-
+## Winter School on Neurobotics in ONPU (2018) | Computer Vision subsection
 <table>
   <thead>
     <tr>
@@ -13,15 +8,17 @@
   </thead>
   <tbody>
     <tr>
-      <td style="vertical-align:top" width="45%">The materials and lectures for the computer vision subsection of the joint ONPU/HA Winter School will be posted here.This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.</td>
+      <td style="vertical-align:top" width="50%">The materials and lectures for the computer vision subsection of the joint ONPU/HA Winter School will be posted here.This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.</td>
       <td style="vertical-align:top">       
-        <table style="border:none" cellspacing="0" cellpadding="0">
+        <table style="border:none; cellspacing=0; cellpadding=0; border-collapse: collapse;">
           <tr>
             <td>
             <img src="https://dl.dropboxusercontent.com/s/w45zcpfr75mhjaa/2017-09-08_14.17.48_small.jpg" height="200px">
             </td>
             <td style="vertical-align:top">
-            <strong>Name:</strong> Nikita Kovalenko<br /><strong>e-mail:</strong> kovalenkonv@opu.ua<br /><strong>skype:</strong>xonxtas
+              <strong>Name:</strong> Nikita Kovalenko<br />
+              <strong>e-mail:</strong> kovalenkonv@opu.ua<br />
+              <strong>skype:</strong>xonxtas
             </td>
           </tr>
         </table>
