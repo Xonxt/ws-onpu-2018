@@ -12,9 +12,9 @@
     </tr>
   </thead>
   <tbody>
-    <tr style="vertical-align:top">
-      <td width="45%">The materials and lectures for the computer vision subsection of the joint ONPU/HA Winter School will be posted here.This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.</td>
-      <td>       
+    <tr>
+      <td style="vertical-align:top" width="45%">The materials and lectures for the computer vision subsection of the joint ONPU/HA Winter School will be posted here.This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.</td>
+      <td style="vertical-align:top">       
         <table>
           <tr>
             <td>
