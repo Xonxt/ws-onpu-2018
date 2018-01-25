@@ -14,8 +14,7 @@
   <tbody>
     <tr>
       <td width="45%">The materials and lectures for the computer vision subsection of the joint ONPU/HA Winter School will be posted here.This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.</td>
-      <td>
-        
+      <td>       
         <table>
           <tr>
             <td>
@@ -24,13 +23,8 @@
             <td>
             <strong>Name:</strong> Nikita Kovalenko<br /><strong>e-mail:</strong> kovalenkonv@opu.ua<br /><strong>skype:</strong>xonxtas
             </td>
-
           </tr>
         </table>
-        
-        
-      
-      
       </td>
     </tr>
   </tbody>
