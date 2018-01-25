@@ -18,7 +18,7 @@
             <td style="vertical-align:top; border: none">
               <strong>Name:</strong> Nikita Kovalenko<br />
               <strong>e-mail:</strong> kovalenkonv@opu.ua<br />
-              <strong>skype:</strong>xonxtas
+              <strong>skype:</strong> xonxtas
             </td>
           </tr>
         </table>
