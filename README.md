@@ -47,3 +47,11 @@ Definition of features. Calculating image features. Corner detection. SIFT and S
 ### Lesson 5. Object tracking.
 **Lesson Contents:**
 Feature point tracking. Object tracking. Optical flow. MeanShift and CamShift algorithms.
+
+
+
+<style>
+  .markdown-body table {
+    margin-bottom: 0;
+  }
+</style>
