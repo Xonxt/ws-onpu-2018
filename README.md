@@ -1,5 +1,5 @@
 ## Winter School on Neurobotics in ONPU (2018) | Computer Vision subsection
-<table>
+<table style="margin-bottom:0">
   <thead>
     <tr>
       <th>Description</th>
