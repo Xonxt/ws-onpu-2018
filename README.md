@@ -4,7 +4,7 @@
 |-------------|----------|
 |The materials and lectures for the computer vision subsection of the joint ONPU/HA Winter School will be posted here.This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.|**Name:** Nikita Kovalenko<br>**e-mail:** kovalenkonv@opu.ua|
 
-<table style="vertical-align:top">
+<table>
   <thead>
     <tr>
       <th>Description</th>
@@ -12,7 +12,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="vertical-align:top">
       <td width="45%">The materials and lectures for the computer vision subsection of the joint ONPU/HA Winter School will be posted here.This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.</td>
       <td>       
         <table>
