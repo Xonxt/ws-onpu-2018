@@ -1,3 +1,5 @@
+## Winter School on Neurobotics in ONPU (2018)
+
 <span style="display:none">hello world</span>
 ### Lesson 1. Image processing basics using python with OpenCV
 **Date:** 05.02.2018 - 9:00<br>
