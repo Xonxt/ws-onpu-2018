@@ -1,4 +1,9 @@
-## Winter School on Neurobotics in ONPU (2018)
+## Winter School on Neurobotics in ONPU (2018) | Computer Visio subsection
+
+| Description | Lecturer |
+|-------------|----------|
+|The materials and lectures for the computer vision subsection of the joint ONPU/HA Winter School will be posted here.
+This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.|Me|
 
 <span style="display:none">hello world</span>
 ### Lesson 1. Image processing basics using python with OpenCV
