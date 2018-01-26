@@ -27,7 +27,7 @@
   </tbody>
 </table>
 
-<hr style="border-top: 1px solid #8c8b8b;">
+<hr style="border-top: 1px solid #e1e4e8; height:0">
 
 <span style="display:none">hello world</span>
 ### Lesson 1. Image processing basics using python with OpenCV
