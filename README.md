@@ -1,6 +1,6 @@
 ## Winter School on Neurobotics in ONPU (2018) | Computer Vision subsection
-<table style="border:none; border-collapse:collapse;">
-  <thead style="border-bottom: 1px solid #ddd;">
+<table>
+  <thead>
     <tr>
       <th>Description</th>
       <th>Lecturer</th>
@@ -11,8 +11,8 @@
       <td style="vertical-align:top" width="60%">The materials and lectures for the computer vision subsection of the joint ONPU/Hochschule Augsburg Winter School will be posted here. This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.</td>
       <td style="vertical-align:top; padding:5px">       
         <table style="border:none; cellspacing=0; cellpadding=0; border-collapse: collapse;">
-          <tr style="border:none">
-            <td style="border:none;padding:0">
+          <tr style="border:none; vertical-align:top;">
+            <td style="border:none; padding:0">
             <img src="https://dl.dropboxusercontent.com/s/w45zcpfr75mhjaa/2017-09-08_14.17.48_small.jpg" height="125px">
             </td>
             <td style="vertical-align:top; border: none">
@@ -27,7 +27,7 @@
   </tbody>
 </table>
 
----
+<hr style="border-top: 1px solid #8c8b8b;">
 
 <span style="display:none">hello world</span>
 ### Lesson 1. Image processing basics using python with OpenCV
