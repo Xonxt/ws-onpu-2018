@@ -9,10 +9,10 @@
   <tbody>
     <tr>
       <td style="vertical-align:top" width="60%">The materials and lectures for the computer vision subsection of the joint ONPU/Hochschule Augsburg Winter School will be posted here. This short course is dedicated to the basics of computer vision and image processing, necessary to develop the automatic car steering software.</td>
-      <td style="vertical-align:top">       
+      <td style="vertical-align:top; padding:5px">       
         <table style="border:none; cellspacing=0; cellpadding=0; border-collapse: collapse;">
           <tr style="border:none">
-            <td style="border:none">
+            <td style="border:none;padding:0">
             <img src="https://dl.dropboxusercontent.com/s/w45zcpfr75mhjaa/2017-09-08_14.17.48_small.jpg" height="125px">
             </td>
             <td style="vertical-align:top; border: none">
