@@ -1,6 +1,6 @@
 ## Winter School on Neurobotics in ONPU (2018) | Computer Vision subsection
-<table style="border:none; border-collapse:collapse;">
-  <thead>
+<table style="border:none; border-collapse:collapse;" class="mytable">
+  <thead style="border-bottom: 1px solid #ddd;">
     <tr>
       <th>Description</th>
       <th>Lecturer</th>
@@ -53,5 +53,8 @@ Feature point tracking. Object tracking. Optical flow. MeanShift and CamShift al
 <style>
   .markdown-body table {
     margin-bottom: 0;
+  }
+  .mytable th, td {
+    border-bottom: 1px solid #ddd;
   }
 </style>
