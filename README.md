@@ -31,11 +31,10 @@
 
 <span style="display:none">hello world</span>
 ### Lesson 1. Image processing basics using python with OpenCV
-**Date:** TBA<br />
+**Date:** 07.02.2018 - 8:30<br />
 **Lesson Contents:**
 Loading images and working with pixels. Changing the colour space (grayscale, binary, RGB, HSV, etc.). Arithmetic and logical operations with images, image cropping and resizing. Convolution operator. Image filtering. Working with a video stream.
-
-Lesson handouts: Download | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/6by8n22jqk2lyrn/Day_1_Image_processing_basics.ipynb)
+**Lesson handouts:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_01) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/6by8n22jqk2lyrn/Day_1_Image_processing_basics.ipynb)
 ### Lesson 2. Calculating and analysing image contours.
 **Date:** TBA<br />
 **Lesson Contents:**
