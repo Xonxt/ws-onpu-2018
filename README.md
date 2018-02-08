@@ -37,9 +37,11 @@ Loading images and working with pixels. Changing the colour space (grayscale, bi
 
 **Lesson handouts:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_01) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/6by8n22jqk2lyrn/Day_1_Image_processing_basics.ipynb)
 ### Lesson 2. Calculating and analysing image contours.
-**Date:** TBA<br />
+**Date:** 09.02.2018 - 8:30<br />
 **Lesson Contents:**
 Edge detection. Calculating and using gradients. Sobel operator. Canny operator. Hough transform. Finding lines and circles on the image. Using Hough transform to find lanes.
+
+**Lesson handouts:** TBD
 ### Lesson 3. Image segmentation and object detection
 **Date:** TBA<br />
 **Lesson Contents:**
