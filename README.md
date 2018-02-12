@@ -43,9 +43,11 @@ Edge detection. Calculating and using gradients. Sobel operator. Canny operator.
 
 **Lesson handouts:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_02) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/kivwkdkla5csin2/Day_02_Image_contours.ipynb)
 ### Lesson 3. Image segmentation and object detection
-**Date:** TBA<br />
+**Date:** 13.02.2018 - 8:30<br />
 **Lesson Contents:**
 Using a sliding window. Detecting objects using the Viola-Jones detector. Object segmentation. Working with object ‘blobs’.
+
+**Lesson handouts:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_03) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/lc1rtnx13ig5kik/Day_03_Image_segmentation_and_object_detection.ipynb)
 ### Lesson 4. Image features and camera calibration
 **Date:** TBA<br />
 **Lesson Contents:**
