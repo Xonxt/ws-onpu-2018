@@ -29,7 +29,7 @@
 
 <hr style="border-top: 1px solid #e1e4e8; height:0">
 
-<span style="display:none">hello world</span>
+<span style="display:none">ignore this line</span>
 ### Lesson 1. Image processing basics using python with OpenCV
 **Date:** 07.02.2018 - 8:30<br />
 **Lesson Contents:**
