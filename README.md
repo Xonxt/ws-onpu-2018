@@ -30,33 +30,33 @@
 <hr style="border-top: 1px solid #e1e4e8; height:0">
 
 <span style="display:none">ignore this line</span>
-### Lesson 1. Image processing basics using python with OpenCV
+### Day 1. Image processing basics using python with OpenCV
 **Date:** 07.02.2018 - 8:30<br />
-**Lesson Contents:**
+**Lecture Contents:**
 Loading images and working with pixels. Changing the colour space (grayscale, binary, RGB, HSV, etc.). Arithmetic and logical operations with images, image cropping and resizing. Convolution operator. Image filtering. Working with a video stream.
 
-**Lesson handouts:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_01) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/6by8n22jqk2lyrn/Day_1_Image_processing_basics.ipynb)
-### Lesson 2. Calculating and analysing image contours.
+**Lecture notes:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_01) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/6by8n22jqk2lyrn/Day_1_Image_processing_basics.ipynb)
+### Day 2. Calculating and analysing image contours.
 **Date:** 09.02.2018 - 8:30<br />
-**Lesson Contents:**
+**Lecture Contents:**
 Edge detection. Calculating and using gradients. Sobel operator. Canny operator. Hough transform. Finding lines and circles on the image. Using Hough transform to find lanes.
 
-**Lesson handouts:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_02) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/kivwkdkla5csin2/Day_02_Image_contours.ipynb)
-### Lesson 3. Image segmentation and object detection
+**Lecture notes:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_02) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/kivwkdkla5csin2/Day_02_Image_contours.ipynb)
+### Day 3. Image segmentation and object detection
 **Date:** 13.02.2018 - 8:30<br />
-**Lesson Contents:**
+**Lecture Contents:**
 Using a sliding window. Detecting objects using the Viola-Jones detector. Object segmentation. Working with object ‘blobs’.
 
-**Lesson handouts:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_03) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/lc1rtnx13ig5kik/Day_03_Image_segmentation_and_object_detection.ipynb)
-### Lesson 4. Image features and camera calibration
+**Lecture notes:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_03) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/lc1rtnx13ig5kik/Day_03_Image_segmentation_and_object_detection.ipynb)
+### Day 4. Image features and camera calibration
 **Date:** 15.02.2018 - 8:30<br />
-**Lesson Contents:**
+**Lecture Contents:**
 Definition of features. Calculating image features. Corner detection. SIFT and SURF descriptors. Feature matching and filtering. Camera calibration and simple geometry.
 
-**Lesson handouts:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_04) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/kjz2007o9a2sbbc/Day_04_Image_features_and_camera_calibration.ipynb)
-### Lesson 5. Object tracking.
+**Lecture notes:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_04) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/kjz2007o9a2sbbc/Day_04_Image_features_and_camera_calibration.ipynb)
+### Day 5. Object tracking.
 **Date:** TBA<br />
-**Lesson Contents:**
+**Lecture Contents:**
 Feature point tracking. Object tracking. Optical flow. MeanShift and CamShift algorithms.
 
 <style>
