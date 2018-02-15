@@ -49,6 +49,9 @@ Using a sliding window. Detecting objects using the Viola-Jones detector. Object
 
 **Lecture notes:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_03) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/lc1rtnx13ig5kik/Day_03_Image_segmentation_and_object_detection.ipynb)
 ### Day 4. Image features and camera calibration
+
+# I might be a little bit late! Please wait for me.
+
 **Date:** 15.02.2018 - 8:30<br />
 **Lecture Contents:**
 Definition of features. Calculating image features. Corner detection. SIFT and SURF descriptors. Feature matching and filtering. Camera calibration and simple geometry.
