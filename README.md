@@ -55,7 +55,7 @@ Definition of features. Calculating image features. Corner detection. SIFT and S
 
 **Lecture notes:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_04) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/vph6f2th6tf642q/Day_04_Image_features_matching_and_camera_calibration.ipynb)
 ### Day 5. Object tracking.
-**Date:** TBA<br />
+**Date:** 20.12.2018 - 8:30<br />
 **Lecture Contents:**
 Feature point tracking. Object tracking. Optical flow. MeanShift and CamShift algorithms.
 
