@@ -61,8 +61,6 @@ Feature point tracking. Object tracking. Optical flow. MeanShift and CamShift al
 
 **Lecture notes:** [Download](https://github.com/Xonxt/ws-onpu-2018/tree/master/Notebooks/Day_05) | [View online](http://nbviewer.jupyter.org/urls/dl.dropboxusercontent.com/s/n54swuace2nw8kw/Day_05_Object_tracking.ipynb)
 
-
-
 <style>
   .markdown-body table {
     margin-bottom: 0;
